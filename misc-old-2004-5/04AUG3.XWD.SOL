@@ -1,0 +1,55 @@
+ACROSS
+
+3,41.   LED ZEPPELIN  (3,8)
+5,42.   VAN MORRISON  (3,8)
+6.   ERR  (3)
+8,24.   DEEP PURPLE  (4,6)
+10,37.  JIMI HENDRIX  (4,7)
+12.  ETA  (3)
+13.  IRE  (3)
+15,33.  BLACK SABBATH  (5,7)
+17.  CREAM  (5)
+19.  LEVEE  (5)
+20.  SHOAL  (5)
+24.  see 8
+28.  THE WHO  (3,3)
+29.  AN  (2)
+30.  PURE  (4)
+33.  see 15
+37.  see 10
+38.  USE  (3)
+39.  EKE  (3)
+40.  TO  (2)
+41.  see 3
+42.  see 5
+
+DOWN
+
+1.   BLEED  (5)
+2.   ENNUI  (5)
+4.   DORE  (4)
+5.   VOMIT  (5)
+7.   REVILE  (6)
+9.   PIECE  (5)
+10.  JEER  (4)
+11.  MAYA  (4)
+14.  RAVER  (5)
+15.  BLIP  (4)
+16.  KEEL  (4)
+17.  CASH  (4)
+18.  MILO  (4)
+21.  HEARD  (5)
+22.  OWNERS  (6)
+23.  AH  (2)
+25.  UNMASKED  (8)
+26.  PLEB  (4)
+27.  EAST  (4)
+28.  TAPE  (4)
+31.  UNDER  (5)
+32.  EXCON  (5)
+33.  SUEZ  (4)
+34.  BEEP  (4)
+35.  ACHE  (4)
+36.  HABIT  (5)
+37.  HUMOR  (5)
+40.  TOP  (3)
